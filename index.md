@@ -3,16 +3,7 @@
 ## Qualitative Results
 
 ### MaskVAT Showcase
-<style type="text/css" rel="stylesheet">
-table {
-  display: block;
-  max-width: -moz-fit-content;
-  max-width: fit-content;
-  margin: 0 auto;
-  overflow-x: auto;
-  white-space: nowrap;
-}
-</style>
+
 <html>
 <table>
   <tr> 

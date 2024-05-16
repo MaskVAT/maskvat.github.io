@@ -32,16 +32,19 @@
         <video width="320" height="240" controls>
         <source src="videos/chew.mp4">
         </video>
+        <img src="videos/spec/chew.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/cello.mp4">
         </video>
+        <img src="videos/spec/cello.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/pipa.mp4">
         </video>
+        <img src="videos/spec/pipa.png">
     </td>
   </tr>
 
@@ -50,16 +53,19 @@
         <video width="320" height="240" controls>
         <source src="videos/guitar.mp4">
         </video>
+        <img src="videos/spec/guitar.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/conga.mp4">
         </video>
+        <img src="videos/spec/conga.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/xylo.mp4">
         </video>
+        <img src="videos/spec/xylo.png">
     </td>
   </tr>
 
@@ -68,16 +74,19 @@
         <video width="320" height="240" controls>
         <source src="videos/sora_shipscoffee.mp4">
         </video>
+        <img src="videos/spec/sora_shipscoffee.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/sora_kangaroo.mp4">
         </video>
+        <img src="videos/spec/sora_kangaroo.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/sora_suv.mp4">
         </video>
+        <img src="videos/spec/sora_suv.png">
     </td>
   </tr>
 
@@ -107,21 +116,25 @@
         <video width="320" height="240" controls>
         <source src="videos/ice_gt.mp4">
         </video>
+        <img src="videos/spec/ice_gt.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/ice_maskvat.mp4">
         </video>
+        <img src="videos/spec/ice_maskvat.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/ice_dfoley.mp4">
         </video>
+        <img src="videos/spec/ice_dfoley.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/ice_v2a.mp4">
         </video>
+        <img src="videos/spec/ice_v2a.png">
     </td>
   </tr>
   <tr>
@@ -129,21 +142,25 @@
         <video width="320" height="240" controls>
         <source src="videos/drums_gt.mp4">
         </video>
+        <img src="videos/spec/drums_gt.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/drums_maskvat.mp4">
         </video>
+        <img src="videos/spec/drums_maskvat.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/drums_dfoley.mp4">
         </video>
+        <img src="videos/spec/drums_dfoley.png">      
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/drums_v2a.mp4">
         </video>
+        <img src="videos/spec/drums_v2a.png">      
     </td>
   </tr>
   <tr>
@@ -151,21 +168,25 @@
         <video width="320" height="240" controls>
         <source src="videos/lion_gt.mp4">
         </video>
+        <img src="videos/spec/lion_gt.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/lion_maskvat.mp4">
         </video>
+        <img src="videos/spec/lion_maskvat.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/lion_dfoley.mp4">
         </video>
+        <img src="videos/spec/lion_dfoley.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/lion_v2a.mp4">
         </video>
+        <img src="videos/spec/lion_v2a.png">
     </td>
   </tr>
   <tr>
@@ -173,21 +194,25 @@
         <video width="320" height="240" controls>
         <source src="videos/tennis_gt.mp4">
         </video>
+        <img src="videos/spec/tennis_gt.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/tennis_maskvat.mp4">
         </video>
+        <img src="videos/spec/tennis_maskvat.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/tennis_dfoley.mp4">
         </video>
+        <img src="videos/spec/tennis_dfoley.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/tennis_v2a.mp4">
         </video>
+        <img src="videos/spec/tennis_v2a.png">
     </td>
   </tr>
   <tr>
@@ -195,21 +220,25 @@
         <video width="320" height="240" controls>
         <source src="videos/erhu_gt.mp4">
         </video>
+        <img src="videos/spec/erhu_gt.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/erhu_maskvat.mp4">
         </video>
+        <img src="videos/spec/erhu_maskvat.png">      
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/erhu_dfoley.mp4">
         </video>
+        <img src="videos/spec/erhu_dfoley.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/erhu_v2a.mp4">
         </video>
+        <img src="videos/spec/erhu_v2a.png">
     </td>
   </tr>
 </table>

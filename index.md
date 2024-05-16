@@ -11,19 +11,19 @@
         <video width="320" height="240" controls>
         <source src="videos/typewriter.mp4">
         </video>
-        <img src="spec/typewriter.png">
+        <img src="videos/spec/typewriter.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/seashore.mp4">
         </video>
-        <img src="spec/seashore.png">
+        <img src="videos/spec/seashore.png">
     </td>
     <td>
         <video width="320" height="240" controls>
         <source src="videos/train.mp4">
         </video>
-        <img src="spec/train.png">
+        <img src="videos/spec/train.png">
     </td>
   </tr>
 

@@ -1,5 +1,20 @@
 # Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity
 
+This is the demonstration page of the paper "Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity" with some selected samples generated with the proposed method.
+
+## Info
+
+### Abstract
+
+Video-to-audio (V2A) generation leverages visual-only video features to render plausible sounds that match the scene. Importantly, the generated sound onsets should match the visual actions that are aligned with them, otherwise unnatural synchronization artifacts arise. Recent works have explored the progression of conditioning sound generators on still images and then video features, focusing on quality and semantic matching while ignoring synchronization, or by sacrificing some amount of quality to focus on improving synchronization only. In this work, we propose a V2A generative model, named MaskVAT, that interconnects a full-band high-quality general audio codec with a sequence-to-sequence masked generative model. This combination allows modeling both high audio quality, semantic matching, and temporal synchronicity at the same time. Our results show that, by combining a high-quality codec with the proper pre-trained audio-visual features and a sequence-to-sequence parallel structure, we are able to yield highly synchronized results on one hand, whilst being competitive with the state of the art of non-codec generative audio models.
+
+### Reference
+
+**Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity**. <br>
+S. Pascual, C. Yeh, I. Tsiamas, & J. Serrà. <br>
+The 18th European Conference on Computer Vision ECCV 2024. <br>
+[Arxiv: 2407.10387](https://arxiv.org/abs/2407.10387)
+
 ## Qualitative Results
 
 ### MaskVAT Showcase
@@ -244,7 +259,7 @@
 </table>
 </html>
 
-### Reference
+### Other References
 
 - Luo, S., Yan, C., Hu, C., Zhao, H.: Diff-foley: Synchronized video-to-audio synthesis with latent diffusion models. Advances in Neural Information Processing Systems 36 (2024) [https://diff-foley.github.io](https://diff-foley.github.io)
 - Wang, H., Ma, J., Pascual, S., Cartwright, R., Cai, W.: V2a-mapper: A lightweight solution for vision-to-audio generation by connecting foundation models. arXiv preprint arXiv:2308.09300 (2023) [https://v2a-mapper.github.io](https://v2a-mapper.github.io)

@@ -263,5 +263,6 @@ The 18th European Conference on Computer Vision ECCV 2024. <br>
 
 - Luo, S., Yan, C., Hu, C., Zhao, H.: Diff-foley: Synchronized video-to-audio synthesis with latent diffusion models. Advances in Neural Information Processing Systems 36 (2024) [https://diff-foley.github.io](https://diff-foley.github.io)
 - Wang, H., Ma, J., Pascual, S., Cartwright, R., Cai, W.: V2a-mapper: A lightweight solution for vision-to-audio generation by connecting foundation models. arXiv preprint arXiv:2308.09300 (2023) [https://v2a-mapper.github.io](https://v2a-mapper.github.io)
+- Sora generated videos from OpenAI (2024) [https://openai.com/index/sora/](https://openai.com/index/sora/)
 
 
